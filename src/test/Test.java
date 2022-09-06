@@ -17,5 +17,7 @@ public class Test {
     public static void main(String[] args) {
         // TODO code application logic here
     }private string atrib1;
+     private string atrib2;
+    
     
 }
